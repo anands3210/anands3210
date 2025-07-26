@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-💡 Enthusiastic and quick-learning developer with a strong foundation in **Full Stack .NET Development**, **AI/ML Projects**, and **Data Handling**.  
+💡 Enthusiastic and quick-learning developer with a strong foundation in **Full Stack Development**, **AI/ML Projects**, and **Data Handling**.  
 🚀 Skilled in building intelligent and responsive web apps, chatbots, and automation tools.  
 🎯 Passionate about solving real-world problems through technology and innovation.
 
@@ -92,6 +92,4 @@
 ### ⚡ Fun Fact
 > I love turning ideas into products using code, and I believe in learning **something new every single day**! 🚀
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=12F7D7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+🚀" alt="Typing SVG" />
-</p>
+
