@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="I_am_software_202507270032_gms1c.mp4" width="280" alt="Developer gif">
+  <img src="https://images.app.goo.gl/wZRE4pq92QVyCBfF7" width="280" alt="Developer gif">
 </p>
 
 ---
