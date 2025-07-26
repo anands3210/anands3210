@@ -45,11 +45,11 @@
 #### 🧳 [Portfolio Builder](https://anandk1406.pythonanywhere.com/)  
 > Built a no-code web app to generate custom portfolio websites using Python & Flask with dark mode UI.
 
-#### 💬 College Query Chatbot – AI-Powered(https://github.com/anands3210](https://anandk1428.pythonanywhere.com/) 
+#### 💬 College Query Chatbot – AI-Powered
 > NLP-based chatbot using PyTorch & Transformers to answer college-related queries with voice and text support.
 
 
-#### 💹 Currency Converter *(Angular)*(https://as-currencyconverter.netlify.app/) 
+#### 💹 Currency Converter *(Angular)*
 > Real-time currency converter using latest Angular & exchange rate API with responsive UI and filter options.
 
 ---
