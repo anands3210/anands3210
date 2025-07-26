@@ -6,7 +6,7 @@
 </p>
 
 
-
+---
 ### 🧠 About Me
 
 💡 Enthusiastic and quick-learning developer with a strong foundation in **Full Stack Development**, **AI/ML Projects**, and **Data Handling**.  
