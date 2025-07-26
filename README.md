@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anand Kumar</h1>
+<h1 align="center">Hi 👋, I'm Anand Srivastava</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
@@ -42,14 +42,14 @@
 
 ### 💡 Projects
 
-#### 🧳 [Portfolio Builder](https://github.com/anands3210)  
+#### 🧳 [Portfolio Builder](https://anandk1406.pythonanywhere.com/)  
 > Built a no-code web app to generate custom portfolio websites using Python & Flask with dark mode UI.
 
-#### 💬 College Query Chatbot – AI-Powered  
+#### 💬 College Query Chatbot – AI-Powered(https://github.com/anands3210](https://anandk1428.pythonanywhere.com/) 
 > NLP-based chatbot using PyTorch & Transformers to answer college-related queries with voice and text support.
 
 
-#### 💹 Currency Converter *(Angular)*  
+#### 💹 Currency Converter *(Angular)*(https://as-currencyconverter.netlify.app/) 
 > Real-time currency converter using latest Angular & exchange rate API with responsive UI and filter options.
 
 ---
