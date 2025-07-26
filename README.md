@@ -5,7 +5,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE2NWdvbmFrbjQyeGVkcHVidjlxemRvZDczeGlwbThybXhrNWc0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lOUiFlXBHE9qdaDrJw/giphy.gif" width="280" alt="Developer gif">
 </p>
 
----
+
 
 ### 🧠 About Me
 
