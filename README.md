@@ -1,49 +1,98 @@
-<h2 align="left">Hi 👋! My name is Anand Srivastava and I'm a Full Stack Developer, from India</h2>
+<h1 align="center">Hi 👋, I'm Anand Kumar</h1>
+<h3 align="center">Full Stack .NET Developer | AI Enthusiast | Problem Solver</h3>
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280" alt="Developer gif">
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### 🧠 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+💡 Enthusiastic and quick-learning developer with a strong foundation in **Full Stack .NET Development**, **AI/ML Projects**, and **Data Handling**.  
+🚀 Skilled in building intelligent and responsive web apps, chatbots, and automation tools.  
+🎯 Passionate about solving real-world problems through technology and innovation.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### 🛠️ Tech Stack
 
-###
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+**Backend:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-###
+**Database:**  
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-<br clear="both">
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+---
 
-###
+### 💡 Projects
+
+#### 🧳 [Portfolio Builder](https://github.com/anands3210)  
+> Built a no-code web app to generate custom portfolio websites using Python & Flask with dark mode UI.
+
+#### 💬 College Query Chatbot – AI-Powered  
+> NLP-based chatbot using PyTorch & Transformers to answer college-related queries with voice and text support.
+
+#### 🎨 [Text-to-Image Generator](https://github.com/anands3210) *(Angular + AI)*  
+> Web app to generate stunning AI images from text using Angular and a text-to-image API.
+
+#### 💹 Currency Converter *(Angular)*  
+> Real-time currency converter using latest Angular & exchange rate API with responsive UI and filter options.
+
+---
+
+### 🎓 Education
+
+- 🧑‍🎓 Master of Computer Applications — *Tula’s Institute, Dehradun (2025)*  
+- 👨‍🎓 Bachelor of Computer Applications — *VKSU, Arrah (2021)*
+
+---
+
+### 📜 Certifications
+
+- ✔️ .NET Full Stack Training  
+- ✔️ Full Stack Web Development  
+- ✔️ Machine Learning with Python
+
+---
+
+### 👔 Experience
+
+- 💼 **Fare & Data Analyst Intern** - AKVM Solutions Pvt Ltd  
+  → Worked on airline fare optimization, CRM data, and GDS Amadeus.
+
+- 💻 **Web Developer Intern** - Main Flow Technologies  
+  → Developed and enhanced web interfaces, ensuring responsive and user-friendly designs.
+
+---
+
+### 📫 Connect With Me
+
+- 📩 Email: anandk1406@gmail.com  
+- 🌐 Portfolio: [as-portfolio1.netlify.app](https://as-portfolio1.netlify.app/)  
+- 🔗 LinkedIn: [Anand Kumar](https://www.linkedin.com/in/anand-kumar-srivastava)  
+- 💻 GitHub: [@anands3210](https://github.com/anands3210)
+
+---
+
+### ⚡ Fun Fact
+> I love turning ideas into products using code, and I believe in learning **something new every single day**! 🚀
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=12F7D7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+🚀" alt="Typing SVG" />
+</p>
