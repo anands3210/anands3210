@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnl1bTl3d29rZGI4ZjNoMXlrbWY1ZmJieTVmbTlyOWRzY2pwaWk3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8HU8mYlGGDlsLjnBel/giphy.gif" width="280" alt="Developer gif">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2dmcWhxNWgxajFybnFveDZnY3NxeGJncjN0ZWUwM2tsaGl6NjFmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aqr9S0X5nQXFeFUB31/giphy.gif" width="280" alt="Developer gif">
 </p>
 
 ---
