@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-<div class="tenor-gif-embed" data-postid="2461104302247665708" data-share-method="host" data-aspect-ratio="1.33155" data-width="100%"><a href="https://tenor.com/view/developer-gif-2461104302247665708">Developer GIF</a>from <a href="https://tenor.com/search/developer-gifs">Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280" alt="Developer gif">
 </p>
 
 ---
