@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anand Kumar</h1>
-<h3 align="center">Full Stack .NET Developer | AI Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280" alt="Developer gif">
@@ -48,8 +48,6 @@
 #### 💬 College Query Chatbot – AI-Powered  
 > NLP-based chatbot using PyTorch & Transformers to answer college-related queries with voice and text support.
 
-#### 🎨 [Text-to-Image Generator](https://github.com/anands3210) *(Angular + AI)*  
-> Web app to generate stunning AI images from text using Angular and a text-to-image API.
 
 #### 💹 Currency Converter *(Angular)*  
 > Real-time currency converter using latest Angular & exchange rate API with responsive UI and filter options.
@@ -84,8 +82,9 @@
 ### 📫 Connect With Me
 
 - 📩 Email: anandk1406@gmail.com  
-- 🌐 Portfolio: [as-portfolio1.netlify.app](https://as-portfolio1.netlify.app/)  
-- 🔗 LinkedIn: [Anand Kumar](https://www.linkedin.com/in/anand-kumar-srivastava)  
+- 🌐 Portfolio: [My Portfolio](https://as-portfolio1.netlify.app/)
+- 🌐 Project Portfolio: [My Project Portfolio](https://as-portfolio1.netlify.app/) 
+- 🔗 LinkedIn: [Anand Srivastava](https://www.linkedin.com/in/anand-kumar-srivastava)  
 - 💻 GitHub: [@anands3210](https://github.com/anands3210)
 
 ---
